@@ -15,7 +15,9 @@ Public issue tracker for BUCS Research Document Management System
 
 ## 🎯 Work in progress
 - Merge graduate researches with undergraduate
+- Faculty research - add validation
 - Student researches manuscript file upload
+- Improved user acc registration
 
 ## 🎯 Work in progress - Quality of Life (QoL)
 - Datatable filters
