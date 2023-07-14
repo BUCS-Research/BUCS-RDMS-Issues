@@ -23,3 +23,4 @@ Public issue tracker for BUCS Research Document Management System
 - Datatable filters
 - Improved datatable searching
 - Dashboard statistics (charts)
+- Dark mode enhancements
