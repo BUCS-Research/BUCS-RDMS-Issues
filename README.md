@@ -14,13 +14,13 @@ Public issue tracker for BUCS Research Document Management System
 - [ ] Student research request access
 
 ## 🎯 Work in progress
-- Merge graduate researches with undergraduate
-- Faculty research - add validation
-- Student researches manuscript file upload
-- Improved user acc registration
+- [ ] Merge graduate researches with undergraduate
+- [ ] Faculty research - add validation
+- [x] Student researches manuscript file upload
+- [ ] Improved user acc registration
 
 ## 🎯 Work in progress - Quality of Life (QoL)
-- Datatable filters
-- Improved datatable searching
-- Dashboard statistics (charts)
-- Dark mode enhancements
+- [ ] Datatable filters
+- [ ] Improved datatable searching
+- [ ] Dashboard statistics (charts)
+- [ ] Dark mode enhancements
